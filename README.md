@@ -1,9 +1,9 @@
-GitHubLatch
-===========
+GitHub Latch
+============
 
 GitHub provide Webhooks, which are incredibly useful for those wanting to automate development and release. However, the documentation is incredibly lacking, and the only PHP tool is seriously over-complicated for what I needed.
 
-Thus, GitHubLatch was born!
+Thus, __GitHub Latch__ was born!
 
 Well, it's caveman-esque ancestor was, anyway.
 
